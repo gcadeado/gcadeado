@@ -10,10 +10,10 @@
 ##### SOME OF MY LATEST PROJECTS AND EXPERIMENTS
 
 - [Live Demo - Unity Platform Experiments](https://gcadeado.github.io/unity-platformer-experiments/)
-- [Live Demo - Unity Platform Experiments](https://gcadeado.github.io/unity-platformer-experiments/)
+- [Live Demo - Unity Tile-Based Experiments](https://gcadeado.github.io/unity-tile-based-experiments/)
 - [Live Demo - Unity Drifter Experiments](https://gcadeado.github.io/unity-car-physics-experiments/)
 - [Live Demo - Unity Third-Person Experiments](https://gcadeado.github.io/unity-third-person-experiments/)
-- [Unity Tile-Based Experiments](https://gcadeado.github.io/unity-tile-based-experiments/)
+- [Live Demo - Unity Match 3](https://github.com/gcadeado/match3-test)
 
 ##### BIO
 
