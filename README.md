@@ -26,7 +26,7 @@
 
 ![Unity3D](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp)
-![Blender](https://img.shields.io/badge/-React-black?style=flat-square&logo=blender)
+![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
