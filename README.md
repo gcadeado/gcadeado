@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/-@gabrielcencic-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@gabrielcencic)
 
 
-##### (LIVE) SOME OF MY LATEST PROJECTS AND EXPERIMENTS
+##### SOME OF MY LATEST PROJECTS AND EXPERIMENTS
 
 - [Live Demo - Unity Platform Experiments](https://gcadeado.github.io/unity-platformer-experiments/)
 - [Live Demo - Unity Platform Experiments](https://gcadeado.github.io/unity-platformer-experiments/)
