@@ -2,8 +2,10 @@
 
 #### I'm a game developer working in São Carlos, Brazil.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gcadeado)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcencic/)
+[![Github](https://img.shields.io/badge/-gcadeado-000?style=flat&logo=Github&logoColor=white)](https://github.com/gcadeado)
+[![Linkedin](https://img.shields.io/badge/-gabrielcencic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcencic/)
+[![Medium](https://img.shields.io/badge/-@gabrielcencic-blue?style=flat&logo=Medium&logoColor=white)](https://medium.com/@gabrielcencic)
+
 
 ##### (LIVE) SOME OF MY LATEST PROJECTS AND EXPERIMENTS
 
@@ -25,7 +27,7 @@
 ##### TECHNOLOGIES
 
 ![Unity3D](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=csharp)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
