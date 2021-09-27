@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/badge/-gcadeado-000?style=flat&logo=Github&logoColor=white)](https://github.com/gcadeado)
 [![Linkedin](https://img.shields.io/badge/-gabrielcencic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcencic/)
-[![Medium](https://img.shields.io/badge/-@gabrielcencic-blue?style=flat&logo=Medium&logoColor=white)](https://medium.com/@gabrielcencic)
+[![Medium](https://img.shields.io/badge/-@gabrielcencic-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@gabrielcencic)
 
 
 ##### (LIVE) SOME OF MY LATEST PROJECTS AND EXPERIMENTS
