@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a game developer working in São Carlos, Brazil.
+#### I'm a game developer living in Berlin, Germany.
 
 [![Github](https://img.shields.io/badge/-gcadeado-000?style=flat&logo=Github&logoColor=white)](https://github.com/gcadeado)
 [![Linkedin](https://img.shields.io/badge/-gabrielcencic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcencic/)
