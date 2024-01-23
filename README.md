@@ -7,13 +7,16 @@
 [![Medium](https://img.shields.io/badge/-@gabrielcencic-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@gabrielcencic)
 
 
-##### SOME OF MY LATEST PROJECTS AND EXPERIMENTS
+##### SOME OF MY LATEST PROJECTS, CONTRIBUTIONS AND EXPERIMENTS
 
 - [Live Demo - Unity Platform Experiments](https://gcadeado.github.io/unity-platformer-experiments/)
 - [Live Demo - Unity Tile-Based Experiments](https://gcadeado.github.io/unity-tile-based-experiments/)
 - [Live Demo - Unity Drifter Experiments](https://gcadeado.github.io/unity-car-physics-experiments/)
 - [Live Demo - Unity Third-Person Experiments](https://gcadeado.github.io/unity-third-person-experiments/)
 - [Live Demo - Unity Match 3](https://github.com/gcadeado/match3-test)
+- [Video - Mudslide](https://www.youtube.com/watch?v=7kE9TJ8SWzU)
+- [Video - Heroes Under Earth](https://www.youtube.com/watch?v=T4tgT_5rHH0)
+- [Complete Portifolio](https://gcadeado.github.io/)
 
 ##### BIO
 
